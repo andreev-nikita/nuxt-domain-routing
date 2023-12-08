@@ -1,7 +1,8 @@
 <template>
-  <div>index.vue</div>
+  <div>root</div>
 </template>
 
 <script>
-export default {}
+export default {
+}
 </script>

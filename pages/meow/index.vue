@@ -1,5 +1,5 @@
 <template>
-  <div>index.vue</div>
+  <div>meow/index.vue</div>
 </template>
 
 <script>
